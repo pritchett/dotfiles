@@ -1,0 +1,15 @@
+[submodule "oh-my-zsh/dot-config/oh-my-zsh/plugins/fzf-tab"]
+	path = oh-my-zsh/dot-config/oh-my-zsh/plugins/fzf-tab
+	url = git@github.com:Aloxaf/fzf-tab.git
+[submodule "oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-autosuggestions"]
+	path = oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-autosuggestions
+	url = git@github.com:zsh-users/zsh-autosuggestions.git
+[submodule "oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-completions"]
+	path = oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-completions
+	url = git@github.com:zsh-users/zsh-completions.git
+[submodule "oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-syntax-highlighting"]
+	path = oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-syntax-highlighting
+	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
+[submodule "oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-vi-mode"]
+	path = oh-my-zsh/dot-config/oh-my-zsh/plugins/zsh-vi-mode
+	url = git@github.com:jeffreytse/zsh-vi-mode.git
