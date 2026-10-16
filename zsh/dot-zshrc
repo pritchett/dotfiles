@@ -1,3 +1,5 @@
+export PATH="$HOME/.cabal/bin:$HOME/.ghcup/bin:/Users/brian/.local/bin/:$PATH"
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
@@ -135,5 +137,4 @@ export EDITOR=nvim
 export VISUAL=nvim
 alias ls=eza --hyperlink
 
-# Added by Windsurf
-export PATH="/Users/bpritchett/.codeium/windsurf/bin:$PATH"
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
